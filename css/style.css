@@ -110,7 +110,7 @@ article:last-child {
 }
 /*SIDEBAR*/
 aside{
-	background-color: #7d7778;
+	background-color: #ece9d8;
 	padding-top: 50px;
 }
 
@@ -129,7 +129,7 @@ aside{
 }
 
 .widget-title {
-	font-family: 'RobotoBold';
+	font-family: 'OpenSansBold';
 	font-size: 20px;
 	
 }
